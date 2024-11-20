@@ -1,265 +1,124 @@
- </h1> 
-<p align="center">ASTA MD 𝚅1
- 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=✨⚔️✨⚔️✨⚔️✨⚔️✨⚔️✨©dave)](https://git.io/typing-svg)
+***
+</p> <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F92C37F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=ASTA-MD;MADE+BY+DAVE+TECH" alt="Typing SVG" /></a>
 
-<img align="right" alt="Coding" width="403333333333" src="https://raw.githubusercontent.com/AiDarkEzio/AiDarkEzio/main/img/ezgif.com-gif-maker.gif" alt="aidarkezio" /></p>
+***
 
+<p align = center>   <img src="https://files.catbox.moe/whar66.jpg"</p>
+<p align="center">
 
+   </p>
+<p align="center">
+<a href="https://github.com/Davemiracle01"><img title="Author" src="https://img.shields.io/badge/Davemiracle01-black?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@malvintech2"><img title="Author" src="https://img.shields.io/badge/YOUTUBE SUBSCRIBE-red?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/254114127157"><img title="Author" src="https://img.shields.io/badge/Contact Me-black?style=for-the-badge&logo=whatsapp"></a>
+<p/> 
 
+ <p align="center">
+<a href="https://github.com/Davemiracle01/followers"><img title="Followers" src="https://img.shields.io/github/followers/Davemiracle01?color=red&style=flat-square"></a>
+<a href="https://github.com/Davemiracle01/ASTA-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Davemiracle01/ASTA-BOT?color=blue&style=flat-square"></a>
+<a href="https://github.com/kingmalvn/MALVIN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kingmalvn/MALVIN-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/kingmalvn/MALVIN-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kingmalvn/MALVIN-MD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/kingmalvn/MALVIN-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/kingmalvn/MALVIN-MD?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FMALVIN-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/kingmalvn/MALVIN-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+</p>
+<p align='center'>
+    </p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
 
-
-
- 
-  
-</h1> 
-<p align="center">𝚒𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚒𝚗𝚐<b> ASTA MD </b>, 𝚊 𝚙𝚘𝚠𝚎𝚛𝚏𝚞𝚕 𝚠𝚊 𝚋𝚘𝚝 </p>
-
-
-  
-
-
-    
- 
- 
-
-
+</p>
+<p align="center"><img src="https://profile-counter.glitch.me/{kingmalvn}/count.svg" alt='https:/github.com/kingmalvn/MALVIN-MD' :: Visitor's Count"/></p>
 
 ---
 
 
+</a>
+  <div align="center">
+  <img src="https://spogit.vercel.app/api?theme=dark&black=true&scan=true" alt="Widget with the current Spotify song"  />
+</div>
 
+---
 
-
-  **𝐇𝐎𝐖 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘 ASTA MDV1**
-
- *ps* **Incase of any issues with forking the repository you can fork on the top left of the page btwn the eye and the star**
-
-
-  **𝟏. 𝐅𝐈𝐑𝐒𝐓 𝐒𝐓𝐄𝐏**
+<p align="center">
+  <a href="https://github.com/kingmalvn/MALVIN-MD"><b>MALVIN-MD</b></a> 
  
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=FORK+THIS+REPO)](https://git.io/typing-svg)
-<a href="https://github.com/Davemiracle01/ASTA-MD-/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=☆+Support+Deployments+on...👇👇)](https://git.io/typing-svg)
+</p>
 
-**star✨ my repo**
-
-
-
-
-
-
-
-   **𝟐. 𝐒𝐄𝐂𝐎𝐍𝐃 𝐒𝐓𝐄𝐏**
-
-  
+<p align="center">
+  <a href="https://github.com/kingmalvn/MALVIN-MD/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/kingmalvn/MALVIN-MD/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://youtube.com/@malvintech2"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
+  </a>
+</p>
+ 
+***
 
 
-  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐆𝐄𝐓+𝐒𝐄𝐒𝐒𝐈𝐎𝐍+𝐈𝐃)](https://git.io/typing-svg)
+<h2 align="left">𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗧𝗢 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣</h2>
+
+<p align="left">
+<a href='https://github.com/kingmalvn/MALVIN-MD/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repo-grey?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28/p></a>
+
+<p align="left">
+<a href='https://sahas-md-pair-web-ibx9.onrender.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+
+<p align="center"> 𝗨𝗣𝗗𝗔𝗧𝗘 𝗬𝗢𝗨𝗥 𝗖𝗢𝗡𝗙𝗜𝗚.𝗝𝗦 - 𝗔𝗗𝗗 𝗦𝗘𝗦𝗦𝗜𝗢𝗡-𝗜𝗗 𝗢𝗥 𝗔𝗗𝗗 𝗖𝗿𝗲𝗱𝘀.𝗷𝘀𝗼𝗻</p>
+
+***
 
 
-<a href="https://globalsess-f76655eb5251.herokuapp.com/"><img title="Tap Here get your Session id ✨ " src="https://img.shields.io/badge/PAIR CODE-h?color=red&style=for-the-badge&logo=msi" width="100" height="38.45"/></a></p>
+<h2 align="left">𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</h2>
+
+<p align="left">
+<a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-red?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
+
+<p align="left">
+<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-blue?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+
+<p align="left">
+<a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColor=white'/< width=150 height=28/p></a>
+
+
+<p align="left">
+<a href='https://app.netlify.com/' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-Netlify Deploy-blue?style=for-the-badge&logo=netlify&logoColor=white'/< width=150 height=28/p></a> <h6>
+
+<p align="left">
+<a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-blue?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> <h6>
+
+<p align="left">
+  <a href='https://github.com/kingmalvn/MALVIN-MD/blob/main/WORKFLOW.md' target="_blank">
+    <img alt='Workflow' src='https://img.shields.io/badge/-WorkFlow%20Deploy-blue?style=for-the-badge&logo=github&logoColor=white' width="150" height="28"/>
+  </a>
+
+
 
  
 
+***
 
+<h2 align="left">𝗥𝗘𝗠𝗜𝗡𝗗𝗘𝗥</h2>
+<p style="text-align: center; font-size: 1.2em;">
+  <strong>Important:</strong> This bot is not affiliated with <em>WhatsApp Inc.</em> 
+  Misusing this bot may result in a <strong>ban</strong> on your WhatsApp account. 
+  Please note that accounts can only be unbanned once.
+</p>
+<p style="text-align: center; font-size: 1.2em;">
+  I am not responsible for any actions leading to the banning of your account. 
+  Use at your own risk, keeping this warning in mind.
+</p>
 
-  **𝟑.𝐓𝐇𝐈𝐑𝐃 𝐒𝐓𝐄𝐏**  
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
-  
-
-<a
-      href='https://signup.heroku.com/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-CREAT -purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-
-
- <a href='https://dashboard.heroku.com/new?template=https://github.com/Davemiracle01/ASTA-BOT-' target="_blank"><img alt='DEPLOY Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+***
+<h2 align="left">𝗡𝗢𝗧𝗜𝗖𝗘</h2>
+<p style="text-align: center; font-size: 1.2em;">
+  <strong>Not For Sale</strong><br>
+  - If any plugin's code is obfuscated, you do not have permission to edit it in any form.<br>
+  - Please remember to give credit if you are using or re-uploading my plugins/files.<br>
+  - Wishing you a wonderful day ahead! 
+</p>
     
+***
 
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+99.9%+safe+on+heroku)](https://git.io/typing-svg)
 
-
-
-
-
-**RUN ON REPLIT**
-
-
-
-
-
-
-
-<a
-      href='replit.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-CREAT-purple?style=for-the-badge&logo=replit&logoColor=white'/></a>
-
-
-
-
-
-
-
-
-      
- <a
-      href='https://deploy-henna-ten.vercel.app/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=replit&logoColor=white'/></a>
-
-
-
-
-
-**DEPLOY TO RENDER**
-
-
-    
-<a href='https://dashboard.render.com/register' target="_blank"><img alt='Render' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
-
-
-    
-<a href='https://deploy-henna-ten.vercel.app/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
-
-
- **DEPLOY ON TERMUX**
-
-
-
-You can also deploy the bot directly on your Android device using Termux. Here’s how:
-
-1. **Install Termux:**
-
-   If you don't have Termux installed, download it from the Google Play Store or F-Droid.
-
-   - [Google Play Store](https://play.google.com/store/apps/details?id=com.termux)
-   - [F-Droid](https://f-droid.org/en/packages/com.termux/)
-
-2. **Update and Install Required Packages:**
-
-   Open Termux and run the following commands to update packages and install required dependencies:
-
-   ```bash
-   pkg update && pkg upgrade
-   pkg install git nodejs -y
-   ```
-
-3. **Clone the Repository:**
-
-   Clone the forked repository using the following command:
-
-   ```bash
-   git clone https://github.com/joeljestech/JOEL-MD.git
-   ```
-
-4. **Navigate to the Project Directory:**
-
-   Change into the project directory:
-
-   ```bash
-   cd dave-MD
-   ```
-
-5. **Set the `SESSION_ID` in the `.env` File:**
-
-   To set the `SESSION_ID`, you need to create or edit the `.env` file in the project directory.
-
-   - **Create/Edit the `.env` File:**
-
-     Open (or create) the `.env` file using a text editor like `nano`:
-
-     ```bash
-     nano .env
-     ```
-
-   - **Add the `SESSION_ID` Variable:**
-
-     Add the following line to the `.env` file:
-
-     ```bash
-     SESSION_ID='your-session-id-here'
-     ```
-
-     Replace `'your-session-id-here'` with the actual session ID you obtained.
-
-   - **Save and Exit:**
-
-     If using `nano`, save the changes by pressing `CTRL + X`, then `Y`, and then `Enter` to exit.
-
-6. **Install Node Modules:**
-
-   Install the required Node.js modules:
-
-   ```bash
-   npm install
-   ```
-
-7. **Start the Bot:**
-
-   Finally, start the bot with the following command:
-
-   ```bash
-   node .
-   ```
-
-   Make sure to keep Termux open to maintain the bot's operation.
-   
-
-
-
-
- 
-**𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐎𝐖𝐍𝐄𝐑**
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=👇👇👇👇👇👇textme)](https://git.io/typing-svg)
-  
-<td><a
-  href="https://wa.me/254114127157?text=Hi%20Dave"><img src="https://telegra.ph/file/bd40faec11e5085432e0e.jpg" width="180"</td>
-
-<table></table>
- 
-**ASTA MD WHATSAPP CHANNEL**
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=👇👇👇👇👇👇follow-wa-channel)](https://git.io/typing-svg)
-<td><a href
-="https://whatsapp.com/channel/0029VavpWUvGk1Fkbzz0vz0v"><img src="https://telegra.ph/file/bd40faec11e5085432e0e.jpg" width="180"</td>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- *𝚔𝚎𝚎𝚙 𝚞𝚜𝚒𝚗𝚐 asta md wa𝚋𝚘𝚝*
-
-
-
-
-
-
-
-*𝙽𝚘𝚝𝚎* :*ASTA md 𝚒𝚜 𝚜𝚊𝚏𝚎 𝚘𝚗 𝚑𝚎𝚛𝚘𝚔𝚞 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚘𝚠𝚗𝚎𝚛 𝚏𝚘𝚛 𝚖𝚘𝚛𝚎 𝚒𝚗𝚏𝚘*
-
-
-
-
-
-    
-<img align="right" alt="Coding" width="403333333333" src="https://telegra.ph/file/bd40faec11e5085432e0e.jpg" alt="https://joelxxxxsession.vercel.app/" /></p>
-
-
-</h1> 
-<p align="center">special thanks to special Dev's 
- 
-joel tech ✨https://github.com/joeljamestech/JOEL-MD
-
-and 
-
-lord no name ✨
